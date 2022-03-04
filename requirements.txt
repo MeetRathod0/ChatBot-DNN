@@ -1,0 +1,4 @@
+tflearn
+numpy
+nltk
+pickle

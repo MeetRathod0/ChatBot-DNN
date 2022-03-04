@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Mobile-apps-projects\\ChatHBot\\chatbot_model.tflearn"
+all_model_checkpoint_paths: "E:\\Mobile-apps-projects\\ChatHBot\\chatbot_model.tflearn"
